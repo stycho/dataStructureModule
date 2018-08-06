@@ -1,0 +1,19 @@
+{
+  "name": "datastructuremodule",
+  "version": "0.1.0",
+  "description": "Library for data structures not native to JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stycho/dataStructureModule.git"
+  },
+  "author": "Sean Tycho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stycho/dataStructureModule/issues"
+  },
+  "homepage": "https://github.com/stycho/dataStructureModule#readme"
+}
